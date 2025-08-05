@@ -3,6 +3,7 @@ class Assets {
   Assets._();
 
   static const String generatedAssets = 'lib/generated/assets.dart';
+  static const String homeHome = 'lib/src/screens/home/home.dart';
   static const String libMain = 'lib/main.dart';
   static const String loginLogin = 'lib/src/screens/login/login.dart';
   static const String navigationRouteBuilder = 'lib/core/navigation/route_builder.dart';
